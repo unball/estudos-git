@@ -1,3 +1,3 @@
 import random
-aleatorio = random.int(0,10)
+aleatorio = random.randint(0,10)
 print("omg" * aleatorio)
