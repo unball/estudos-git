@@ -1,3 +1,3 @@
 import random
-vezes = random.normalvariate
+vezes = random.int(range(0,10000))
 print(vezes)
