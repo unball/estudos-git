@@ -1,4 +1,5 @@
 # estudos-git
+
 When I met you in the summer
 To my heartbeat's sound
 We fell in love
@@ -20,3 +21,6 @@ When I met you in the summer
 Summer
 When I met you in the summer
 Summer
+
+estou estudando
+print =("hello world")
