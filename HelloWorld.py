@@ -7,12 +7,16 @@ GITHUB THINGS SHOULD BE LIKE
 
 git status (vê como tá)
 
-git add * or git add --all
+git add * or git add --all (add to git)
 
-git push (passa pro server -m 'msg')
+trocar de branch -> git checkout 
+
+git commit -m 'msg' (local commit)
+
+git push (server commit passa pro server -m 'msg')
 git push origin master -m "Your message"
 
-
+git pull (manda tudo e atualiza tbm)
 
 
 
